@@ -1,4 +1,4 @@
-// #include "main.h"
+#include "main.h"
 /**
 * _printf - Function that produces output according to a format
 * @format: array to print and check type
