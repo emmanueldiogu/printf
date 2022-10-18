@@ -1,5 +1,5 @@
 .TH _PRINTF 2 "26 October 2020" "0.6" "ALX Printf"
-// .SH NAME
+.SH NAME
 _printf - Print data about the format
 .SH SYNOPSIS
 .B _printf (
